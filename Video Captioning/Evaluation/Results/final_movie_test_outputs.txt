@@ -1,0 +1,989 @@
+,a woman is at a at daytime ,2.62
+,a man is through a door and then and it and it is shown ,0.67
+,a person jumps down down down down down down and then down down but but ,0.71
+,a woman is dancing on a tv show ,0.40
+,a man in a room with a man with a red ,0.53
+,two young men are dancing and a stage ,0.45
+,a young man with a hair and a black woman with a black and is ,0.67
+,a white male is eating in a table ,0.43
+,a man wearing a red shirt is riding a a man with a ,0.59
+,a man in a white shirt walks through a of a ,0.50
+,a goat on a ball and a ball ,0.41
+,a car with a car and a car is shown ,0.47
+,a small moves a the daytime ,0.35
+,a young man is dancing in a room ,0.41
+,one in the beach and the and the the the the the ,0.53
+,a young woman in a white shirt and a black man on a table ,0.61
+,a cat in a room ,0.30
+,a boy in a room with a room with a room ,0.51
+,a man in a red shirt and white white is standing in a of a ,0.68
+,a young man is in a of a young asian is talking to the of ,0.71
+,a boy is holding a toy and on a table ,0.50
+,a young girl with a red and wearing a pink shirt and the singing in ,0.59
+,people in a red of a red in a red shirt is running in the ,0.57
+,two men dance on stage ,0.32
+,a man is running on a street ,0.39
+,a young asian woman with a black and is talking to a person ,0.64
+,a kitten and white and white and white licking a white ,0.55
+,a man in a kitchen at a kitchen a hand with a hand with a ,0.62
+,a black man wearing a black and black black and a white man is standing ,0.67
+,a young girl is a a ball on a tree ,0.56
+,a black and is dancing on a stage ,0.44
+,man hits his and in a ,0.36
+,a woman is holding a ,0.46
+,a man in a snow of a and is talking ,0.48
+,a young man in a black man is standing in the of of the day ,0.71
+,young asian men in a room with a man is dancing in the music ,0.61
+,a person is walking in a store and a black and falls down ,0.57
+,outside a man in a black man is running on a street ,0.56
+,a group of men are standing in a room ,0.47
+,a person is on a stage ,0.43
+,a woman in a room ,0.31
+,a man is by a tree on a street ,0.44
+,outside on a street during the day during the day during the day ,0.57
+,a cat with a white and white white white is standing on the of of ,0.63
+,a young man in a yellow and two are are in a ,0.60
+,a person is shown at a ,0.35
+,a man in a subway on a road and falls down down the road and ,0.66
+,a man in a blue and and blue shirt and the other is holding a ,0.60
+,group of of people are on a stage and is is singing ,0.53
+,a black man in a red shirt is is on a ,0.53
+,in a room a young man with a pink and top and a pink top ,0.68
+,a man is into a water in a pool and falls into the ,0.62
+,a person is in a room ,0.32
+,a child is holding a ,0.39
+,in a room a group of people are are in a table ,0.53
+,a young man wearing a red shirt and white red is ,0.55
+,a young asian man and a table and a table a a table one is ,0.59
+,man is down at daytime ,0.33
+,a group of people in a stage ,0.40
+,a young man is a a a man and a black and the the the ,0.64
+,a young man is playing a large and is playing a white and is playing ,0.60
+,a group of people are running on a road ,0.47
+,in a street at daytime ,0.31
+,in a baseball field a young man is up a ,0.48
+,a man is jumping into a ball and a water ,0.48
+,a woman is to a music in the camera to the music while the other ,0.62
+,a group of people are on a stage ,0.42
+,a young man wearing a green shirt and a ball is standing on a field ,0.72
+,a woman is sitting in a kitchen ,0.38
+,a man is running on a snow and and on the snow ,0.52
+,a man in a man is and a man and and a woman is ,0.62
+,a small in a room is sitting on a room ,0.49
+,a young man wearing red red shirt and red red are dancing ,0.55
+,a man is walking on a of ,0.38
+,a woman in a room a white is singing in a room ,0.59
+,two men are walking on a street at daytime ,0.59
+,two men are by a crowd of a young men are talking to a other ,0.94
+,a group of a group of a group of a men are ,0.83
+,a man is on a street a man and a man and a man is ,0.86
+,a crowd of a crowd a young men in a crowd of the ,0.83
+,a man in a room with a man is his head on a table ,0.87
+,a young man wearing a red shirt is sitting on a car ,0.81
+,in a room a young man is a black and is running on a street ,0.88
+,man in white shirt and on a and falls down on it then falls down ,0.85
+,a person is in a hand ,0.50
+,a young man with a white and with a white is dancing on a music ,0.96
+,a group of people are standing in a crowd of a group of people ,0.89
+,a man holds a man in a red shirt and a black is is talking ,0.90
+,a young man is walking in a house a young man is talking to the ,0.92
+,a man with a man is his phone and his ,0.68
+,a man is in a street in a house a person is up ,0.94
+,a young man is walking in a of of two people are ,0.75
+,a young man is dancing in a room with a young is is talking to ,0.85
+,a person in a grassy and a white is is running on a road ,0.80
+,a car is driving a car on a road ,0.59
+,a man wearing red red and red ,0.48
+,a man is down and and and one is shown at a ,0.82
+,a man with a on a ,0.47
+,two men are talking to a music ,0.56
+,a group of people in a basketball court at a ,0.69
+,a group of people are walking on a street at a ,0.83
+,a man is at a at a man in a man with his head ,0.83
+,a person is shown and a black and ,0.61
+,a group of people walking outside on the day during the day day the day ,0.84
+,a girl in a blue shirt and a young man is standing in front of ,0.88
+,a young asian woman is walking in a room ,0.66
+,a man in a snow of a snow and a man in a ,0.84
+,a woman is walking in a bottle ,0.49
+,a young asian is sitting on a room with a person and the the of ,0.92
+,a white is is a a a of a young ,0.64
+,a black man with a white of a white male with a black ,0.78
+,a man is jumping on a ,0.45
+,a young asian girl in a black and is talking and the side of the ,0.89
+,a man in a room a man in a room ,0.63
+,a man is on a kitchen a man in a black shirt is standing on ,0.90
+,a man in a hat and a red is on a road on a road ,1.04
+,a man in a red and a green a green of a young people are ,0.97
+,a man is down on a river at daytime ,0.68
+,a man in a room and a black man is talking to the ,0.90
+,on a basketball with a black is is on the the ,1.00
+,a man wearing a gym and is is in a gym ,0.75
+,a white man with a white shirt with a red shirt and red cap with ,1.15
+,a young man is standing on a baseball is is standing on the day it ,1.05
+,a is is by a of a man is by a man ,0.76
+,a man in a green dancing in a room ,0.66
+,a man is into a phone and a man is shown ,0.79
+,a young man is riding a young man is into the street ,0.80
+,a man in a white shirt and a white man in a front of a ,0.88
+,a man is down on a road a it and it it it it it ,0.94
+,a little girl in a green and is holding a daytime ,0.69
+,a man is walking on a car and a man is down ,0.80
+,a cat is walking in the camera and a room ,0.83
+,a group of people are dancing in a stage in a room ,0.88
+,a young man in a black man and black man and black black man is ,0.99
+,a young man wearing a black shirt with a black is dancing ,0.78
+,a young man in a black and a black man in a room ,0.80
+,a young man is walking in a street in a house a man with an ,0.82
+,a man in a large and man in a street in front of a of ,0.85
+,a football is in a in a track ,0.52
+,a young man is walking on a beach and and ,0.72
+,a man is to a car a car and the day the day the day ,0.82
+,a young man is into a ball into the of ,0.67
+,a group of people are on a street in the daytime ,0.73
+,a young asian man wearing a black is is talking to a music with the ,0.85
+,a man in a store in a store a man in a red jacket is ,0.82
+,in a of a young boy in the the of the the the the the ,0.86
+,a small child in a small child and a person in a tree ,0.79
+,a group of people are by a crowd ,0.63
+,in a classroom a young man in a classroom hall a black and pulls pulls ,0.84
+,a person is on a to a to the the ,0.66
+,a man is down a and is shown on the side of a road ,0.82
+,a young man is hit the the of a of a ,0.70
+,a group of people are dancing on a stage ,0.60
+,on a soccer field a player runs the the ball in the daytime ,0.83
+,a man in a street at night ,0.56
+,a man is walking down a street on the street ,0.72
+,a man with a black man on a baseball ,0.66
+,a young man is singing on a stage ,0.55
+,a man jumps into a ball and into the camera ,0.69
+,man in a man with a man in a room ,0.68
+,a man in a of a man in a of a man is by the ,0.89
+,a group of of a person ,0.48
+,a young boy in a yellow and black man with a black and falls ,0.87
+,group of people are dancing in the of ,0.56
+,a of of people are to a ,0.55
+,a man is in a empty of a young man ,0.71
+,a person with a black and a black man is dancing ,0.73
+,a young man is walking in the daytime ,0.70
+,a group of people are walking on a street one one is the the day ,0.83
+,a person is on a field ,0.47
+,a little girl in a room with a room is is by the of the ,0.89
+,a young man in a pool with the pool into the of the of the ,0.82
+,a man is singing ,0.34
+,a young man is holding a cell phone with a cell phone with the door ,0.90
+,a man in a large ,0.40
+,in a city of a city in a city of a city ,0.77
+,a basketball player is playing a ball ,0.53
+,a man is being and a black ,0.53
+,a young man is holding a water on the ground and the the day the ,0.94
+,a young asian child in a bed of a young asian girl is talking ,0.85
+,a young man wearing a red shirt and a red shirt is talking to the ,0.88
+,a car is driving a car and a man in the street ,0.74
+,in a room is jumping on a door ,0.53
+,a group of people in a large of a large of people are holding a ,0.83
+,a young man is dancing ,0.37
+,a man is dancing on a room ,0.56
+,a boy in a room with a black is wearing a black shirt is talking ,0.85
+,a young asian man with a classroom with a ,0.63
+,a man and a man in a room ,0.54
+,a young man dressed in the of of a of the of the day the ,0.90
+,a black is on a on a street a boy in a hole ,0.76
+,a man in a person is holding a ,0.53
+,a woman is talking to a ,0.51
+,a water into the water into the camera and the water ,0.77
+,a person is walking in a street in street ,0.68
+,a group of people are dancing on a stage ,0.62
+,a in a kitchen a woman in a table with some eating ,0.74
+,a man on a red and a red ,0.60
+,a group of people are dancing on a stage in a tv show ,0.80
+,a person with a red and is is and a person in the ,0.77
+,a man in a room and a white ,0.55
+,a white cat in a table in a table in a room ,0.78
+,a small is lying on a on a water with a is is by the ,0.89
+,three asian men are dancing in a group of people are dancing ,0.74
+,a young man is holding a cell ,0.61
+,on a golf a man in a golf and a black man is running on ,0.85
+,a young woman with long hair and a woman is talking to a wall ,0.93
+,a young man is standing in a of a is is ,0.72
+,a man is running on a stage ,0.52
+,a group of people in a school in a room ,0.68
+,a woman in a building with a man is holding a wall to the day ,0.84
+,a man is talking to a ,0.42
+,man is holding a in his ,0.52
+,a man is holding a ,0.53
+,a boy in a room of a little boy with a yellow shirt is dancing ,0.96
+,a woman with long hair and white and are talking to the the day the ,0.94
+,a person on a street and a child is down a little girl is dancing ,0.88
+,six group of people are in a stage ,0.56
+,a person is a a person in a room and white is is dancing ,0.93
+,in a store a young man in a red shirt and white black white shirt ,0.95
+,a young boy wearing a white shirt and blue and then falls falls down ,1.12
+,in a classroom a young man in a black room with a black man is ,1.12
+,a dog in a living room a dog is to a ,0.84
+,a large large large is dancing on a street ,0.65
+,in a of a men are dancing in the side of the ,0.75
+,a young man is sitting on a bed and a is sitting on a couch ,0.86
+,a man in a stage with a is dancing in a room ,0.72
+,a man is outdoors at daytime ,0.47
+,a man in a green shirt and a ball into a car ,0.76
+,in a room a young man in black and black black and talking to the ,0.83
+,a young woman is walking in a room of a black is being by the ,0.86
+,a man with a man is dancing in a stage ,0.63
+,a man in a bottle of a man in a black ,0.74
+,a small and white dog is running in the street ,0.66
+,a man with a lights with a while on a street ,0.74
+,a young man is at a table and a man is shown and then then ,0.87
+,a young girl in a black and one is dancing at the day the day ,0.81
+,a man is in a gym and white man and white clothes and red clothes ,0.97
+,a child in a shower in a shower ,0.59
+,a young man wearing a red shirt and red tie is walking at a ,0.83
+,a young boy in a room with a red shirt is dancing to a ,0.82
+,a group of people in a crowd of people are dancing on a stage ,0.87
+,a large black man is dancing on a ,0.52
+,a man in a room a man is a a boy is holding a pink ,0.85
+,a man in a white top and white black and black black top is singing ,0.87
+,a man is walking on a street ,0.49
+,a young woman wearing a black shirt is walking in a street ,0.79
+,a group of people in a room with a black man is dancing while them ,0.91
+,in a stage a man with a man is dancing in a room ,0.86
+,at night crowd crowd of people in a crowd with ,0.73
+,a small dog in a floor of a dog ,0.65
+,a person is on a room ,0.64
+,a young man in a white shirt and blue shirt and it then then ,0.89
+,in a room a woman in a room a a girl with a blue shirt ,0.92
+,a boy in a red and white and and white and jeans and jeans the ,0.86
+,a boy is holding a little with a child with a little child is holding ,0.80
+,a group of people are dancing on a group of people are dancing in the ,0.81
+,a young man is holding a cup ,0.52
+,two men are dancing in a stage ,0.52
+,a young man is standing on a basketball of a man is at a wall ,0.85
+,a man is by a man on a man ,0.65
+,a young man is pushed from a face of his head then then then then ,0.83
+,a man is is into a of a of a young woman is ,0.77
+,a young woman is being by a dog in a window ,0.69
+,a car car and car in a car and car ,0.66
+,a is is shown to the the ,0.55
+,a young asian girl with a black and the the to the music the the ,0.89
+,a man is is shown on a goal ,0.58
+,a woman with a white shirt and a white is talking to the side of ,0.87
+,a young boy is running on a road ,0.60
+,a young man in a room and a white is sitting on a table ,0.94
+,a young man in the street in the street in the street ,0.75
+,a man in a is is walking on a street and up and them down ,0.81
+,a man in a blue shirt and a white shirt is sitting on a table ,0.81
+,a man is shown on a table in a house and then jumps then it ,0.86
+,a boy is dancing at a table ,0.55
+,a young woman is talking to a table with a man with a green and ,0.84
+,a group of people are on a stage ,0.59
+,a person in a room ,0.43
+,a young black man is running on a grassy and two men are running ,0.87
+,in a basketball hall a group of people are in a hall ,0.79
+,a man is jumping into a street ,0.58
+,a group of people are dancing in a room ,0.76
+,a car a car and a car at the ,0.70
+,a woman is dancing in a room ,0.53
+,a man in a man and a man is on a wall ,0.89
+,a group of people are in a field and one team the of the of ,0.84
+,a is is into the camera ,0.41
+,a man is jumping into a tree ,0.55
+,a woman in a room with a black shirt is her her ,0.74
+,a black black is walking on a road and one on a when the day ,0.96
+,in a group of young asian men in a suits are talking to the other ,0.96
+,a man in a bathtub ,0.41
+,a young man is dancing on a stage ,0.64
+,a group of women dancing on a stage ,0.63
+,a white dog is dancing in a room with a is dancing in a room ,1.10
+,a man in a ball and over a basketball ,0.68
+,on a sunny day of people are in a large ,0.80
+,a young asian man wearing a red shirt and white shirt and white vest is ,0.93
+,a man is dancing on a stage ,0.53
+,a boy in a green shirt and green and falls down the daytime ,0.82
+,a person is running on a road ,0.53
+,a woman in a green and top of a ,0.58
+,a cat in a room ,0.43
+,a dog is sleeping on a couch ,0.59
+,a young man is walking on the side of the day the day then falls ,0.90
+,two men are talking in a room ,0.50
+,a young man wearing a red shirt and red hat and red and then then ,0.99
+,a young man is sitting a hand ,0.53
+,in a room a man in a building a man with a black man is ,0.93
+,a young boy wearing a blue shirt and a white shirt is talking to the ,0.86
+,a young dog is in a room a room with a black man is by ,0.82
+,a man is walking in a street ,0.54
+,a young man in a and and white and wearing a blue shirt and jeans ,0.97
+,in a a a dog is in a of a dog is ,0.74
+,a man is dancing to a window ,0.55
+,in a street a group of people are in a street ,0.71
+,man in a basketball in a gym ,0.48
+,a group of people dancing in a stage ,0.62
+,a person is playing a man with a black and a black with a black ,0.84
+,a is is dancing at a ,0.47
+,a young woman is sitting on a couch and a dog is ,0.77
+,a young man is singing on a room ,0.56
+,a man in white t shirt and white man is holding a of of ,0.84
+,a group of people are dancing on a stage ,0.60
+,a of a of people are running in a snow and ,0.70
+,a man in a stadium a man in a sports hall ,0.76
+,a group of people are dancing on a ,0.57
+,a man in a black man in a room ,0.63
+,a little boy is sitting in a bed ,0.55
+,a crowd at night a night with a black is jumping on the stage ,0.85
+,man in a room and black black and is singing to a young them is ,0.89
+,a black and black man in a black and is shown and a black man ,0.87
+,a black of a black sitting in a bedroom a room ,0.73
+,a man is sitting on a table with a hand ,0.64
+,a group of people are walking on a stage ,0.64
+,a is on a ,0.36
+,a woman is in a room with a room ,0.65
+,a young man is dancing in a of a man with a ,0.77
+,a man in a red indoors ,0.49
+,a young man is jumping on a and a wall and a person runs down ,0.96
+,in a room a group of young men are in a school one one is ,0.85
+,a young man in a red shirt and his head ,0.75
+,a boy is up in a bed ,0.51
+,in a room a young man with a yellow shirt and a yellow is holding ,0.86
+,two men are dancing in a stage in a building one with the day ,0.87
+,a young man dressed in a black shirt is dancing to a music ,0.84
+,a young man is driving a car and is riding on a road ,0.77
+,a woman in a bedroom a room and a man is dancing ,0.77
+,a man is a a a man in a ,0.60
+,a group of people with a and with a microphone ,0.67
+,a young asian girl is something and down and other ,0.69
+,a bear is jumping down the ,0.46
+,a woman with a bed and lying on a bed ,0.73
+,a man with a man with his head with his head in his head with ,0.86
+,a group of people in a black and is singing ,0.65
+,a man is on a stage ,0.46
+,a woman is on a stage ,0.49
+,a man in a car with a car and a car ,0.75
+,group of people are standing in a of a group of people ,0.80
+,a young asian woman with a hair is singing and drums drums one is singing ,0.83
+,a young asian woman sitting in a kitchen with her head in her bathtub with ,0.87
+,a young man in a red shirt and a black is dancing on a wall ,0.87
+,a man wearing a blue shirt and a blue shirt and a black shirt is ,0.80
+,a man in a of a man in a man ,0.67
+,a black and moves to ,0.39
+,a woman is a a man with a hand with a ,0.81
+,man in a room with a white shirt and white shirt and grey grey hat ,0.84
+,a man on a street at a street at the street in the street at ,0.84
+,a young girl with a kitchen ,0.53
+,three men are walking on a street in a city of people are holding a ,1.02
+,a man is on a and is singing ,0.67
+,in a room a young boy with a black and wearing a red shirt is ,0.88
+,a young man is dancing on a room ,0.59
+,a young man is standing in a room of a room ,0.73
+,a man on a crowd ,0.40
+,a young asian woman with a and a table ,0.67
+,a little girl with a brown and her her her to her to music ,0.99
+,a little girl in a room with a black is is on a door door ,1.06
+,a young boy in a blue shirt and white boy wearing a black shirt is ,0.99
+,a man is walking down a street ,0.50
+,a man is down down to snow and down and down ,0.85
+,a group of people are dancing in a room ,0.60
+,a man in a red shirt and white shirt with a red of a white ,0.94
+,a is down at daytime ,0.57
+,a young man is standing in a room and a man is ,1.11
+,a man on a street at a street at daytime ,1.03
+,a young man in a white shirt and a black of a black is talking ,1.18
+,a man wearing a soccer shirt with a soccer ,0.67
+,a boy boy in a room with a red shirt is is with a wall ,1.10
+,a man in a room and a man is the the the of the the ,1.02
+,a black man is into a street ,0.51
+,a young man is on a tree on a street ,0.65
+,a woman in a white shirt and white white shirt is talking to a them ,0.83
+,a young black man wearing black black and black hat and dancing in a room ,0.82
+,a person is in a room with a room with a person with a dog ,0.87
+,a young boy in a white shirt and white t shirt and white shirt is ,0.95
+,a young man with a room with a room ,0.62
+,a young asian women wearing a white shirt and white white shirt is walking at ,0.82
+,a man in a car and a black man and over the of of it ,0.87
+,a man walking walking on a street at a ,0.58
+,a young woman with a hair with a blue at a ,0.65
+,a boy sitting on a car seat of a car ,0.69
+,a man wearing a red shirt and white shirt is dancing with a man with ,0.88
+,a man wearing blue jacket and tie on a sidewalk with a black and falls ,0.85
+,two men are dancing on a stage ,0.52
+,in a room a young girl wearing a black and white shirt is wearing a ,0.85
+,a group of people are dancing on a stage ,0.62
+,two young asian woman in a room and a room ,0.69
+,a woman is talking to the camera and his head ,0.68
+,in a stage with a red and red red shirt is singing ,0.85
+,a man walks to a bottle in a ,0.57
+,a woman is shown in a room ,0.55
+,a boy in a bedroom and a boy ,0.63
+,a black man wearing red shirt and red hat and red hat and ,0.85
+,a man is walking on a street ,0.49
+,a young man in a snow ,0.48
+,a man in a stage and a woman is dancing ,0.73
+,a car drives in a car and drives ,0.62
+,a man is dancing on a stage ,0.54
+,a man is dancing on a ,0.53
+,dog and white dog and his head ,0.54
+,a man on a basketball in a room ,0.58
+,a young man wearing a green shirt and blue shirt is standing on the of ,0.89
+,a young asian girl is and a and ,0.60
+,a person is running on a street ,0.57
+,a man wearing red jacket jacket his hands ,0.68
+,man wearing a green top is is on a wall and it ,0.81
+,a of a man in a red and is ,0.64
+,a young man in a a man is into the ground of the daytime ,0.89
+,a man is down a a of a person in a car is along along ,0.79
+,a of a man is jumping and a is is jumping and a man is ,0.86
+,a young man is with a a ,0.48
+,a young black man wearing a white shirt and white pants with a red outfit ,0.86
+,a person in a red and black and a black and a black and a ,0.84
+,a woman in a store with a red and is talking ,0.73
+,woman in an room with a woman with her in ,0.66
+,a person in a snow and running and running ,0.68
+,a man in a soccer field ,0.47
+,a group of people are dancing in a dance in front of a group of ,0.89
+,at night two men are in the air and one of the air ,0.77
+,a man in a room with a black is dancing in a room ,0.84
+,a people in a red and people in a crowd of people are standing at ,0.83
+,five asian men in stage and one and them them them them them them them ,0.85
+,a car is is by a car and a person in the road ,0.82
+,a young man is walking in a of a young man is ,0.76
+,a person is jumping on a snow and one on a red and one ,0.92
+,in a room a a woman is a a hand in a kitchen ,0.77
+,a football player is playing on a ball on a football field ,0.78
+,in a crowd of people are by a group of people are ,0.80
+,a man in a city with a man with his arms and his hands ,0.82
+,a young boy is a a of a young man and a green falls down ,0.85
+,a group of people in a room in a room with a room ,0.76
+,a man in a car and a car on a street ,0.71
+,a woman dancing in a street of a man with the air as the air ,0.81
+,a person is up a over a and a a ,0.64
+,a person in a water in the daytime ,0.61
+,a man in a large of a is jumping by a person ,0.74
+,on stage and man in the background of a group of people are dancing ,0.96
+,a young man in a pool pool water in a pool of water ,0.95
+,a person is into a ball and a person is shown ,0.73
+,men in a field with a black is standing on the air ,0.82
+,a young man is holding a white shirt and white and white sweater and then ,0.92
+,a man wearing a black man is running and a car ,0.67
+,a group of people are in a black and dressed in black room with a ,0.85
+,a young man in a red and is walking on the street ,0.77
+,a person with a green and a and is sitting on the ground to the ,0.81
+,a young man is driving a car and a man in a car and then ,0.83
+,a man in a large large person is ,0.56
+,a young woman wearing a blue and blue and blue blue t shirt and jeans ,0.84
+,a dog is walking on a patio ,0.55
+,a young man is holding a microphone with a microphone with a hand with a ,1.12
+,a group of men are on a stage ,0.63
+,a woman in a room ,0.43
+,in a room with a man with his hair ,0.76
+,a group of people are dancing in a large building ,0.72
+,a young man is being in a room with a phone is shown shown shown ,0.85
+,a small dog with a small and is ,0.55
+,a young man with a black and is on a glass ,0.83
+,a young man is sitting in a room a room a young man is talking ,0.83
+,a is jumping into a water ,0.44
+,a boy in a red shirt and a blue and is standing in the of ,0.87
+,in the of a crowd of a crowd ,0.55
+,a man is running a ball ,0.45
+,a man is singing on a stage ,0.63
+,a young man with a hair is walking a a ,0.76
+,a young man is talking to a microphone ,0.60
+,a man is on a couch in a room ,0.64
+,a young man wearing a green shirt and blue shirt is talking to a red ,0.86
+,a young man in a red shirt and white shirt and white ,0.74
+,a man in a car a car and a person is riding and the door ,0.89
+,a man is up to a woman ,0.50
+,a young man wearing a white shirt and a black and is standing on the ,0.86
+,man is jumping in a street of a of ,0.62
+,a young man in a room is sitting on a room ,0.89
+,a group of people are standing on a field ,0.76
+,a young woman in a car and a woman is talking to the camera ,1.09
+,three men in a building one in the clothes are standing on the wall ,1.16
+,a black man in a room with a black and is dancing on a music ,1.07
+,a cat is on a legs and a dog is down the daytime ,1.01
+,a man in a is is running on a road ,0.82
+,a man in a city a man in a red shirt and is jumping on ,1.11
+,a man is on a sidewalk at daytime ,0.73
+,a person is into a ball ,0.61
+,a person is playing a ,0.56
+,a man in a red and white and the the ,0.90
+,a person is on a stage ,0.62
+,a woman in a stage ,0.57
+,a man wearing a white jacket is a young man is being ,1.06
+,in a floor and a young man and the the and the the ,1.02
+,in a living room a young man in a black shirt is dancing ,0.99
+,cat cat on a toy and a white and its its its on a field ,1.11
+,five asian girls are dancing on a stage ,0.65
+,a young male is dancing on a stage ,0.60
+,a young man in a black and is wearing a black and black and them ,0.85
+,a black woman dancing in a dance in a room ,0.75
+,a young man on a a man jumps a high jumps at daytime ,0.77
+,a man is talking to a room ,0.49
+,a woman is a a show ,0.51
+,a young man in a room with a white shirt is talking to a of ,0.88
+,a man is singing in a room ,0.50
+,a man is walking on a car and a person is down and it on ,0.91
+,a person wearing red red and red and is is talking ,0.74
+,a woman talking to a woman in a room ,0.64
+,a man wearing a black and is dancing on a ,0.64
+,a man is walking on a of a ,0.62
+,a man in a white shirt is dancing in a street ,0.82
+,a cat is standing on a door ,0.51
+,a young man wearing a red shirt is into a of ,0.77
+,a group of people are in a stage ,0.57
+,a young black is jumping down a road ,0.62
+,a group of woman in a suits and in a tv ,0.70
+,a man is singing on a stage ,0.52
+,a young boy is dancing on a street ,0.59
+,a soccer player in a ball in a goal ,0.66
+,a young man is walking on a park a girl with a green shirt and ,0.91
+,a man with a black man is by a by a man ,0.74
+,of is jumping into a ,0.45
+,a person is shown in a table ,0.56
+,a dog on a fence at daytime ,0.65
+,a girl with a girl with a car is ,0.94
+,a young man in a white shirt and a white table and a white boy ,0.95
+,a man in a bed ,0.47
+,group of people are dancing on the stage ,0.73
+,a little boy is holding a toy ,0.56
+,a video of a of a person is shown ,0.84
+,a young asian girl is up to a dog and a dog who who is ,1.21
+,a man in a white shirt and a white shirt and the the of the ,1.43
+,outside outside outside and then and then to the other ,0.94
+,a man is standing on a chair in a blue shirt and blue blue shirt ,1.12
+,a is is walking on a street ,0.66
+,a young man is talking to a in a room ,0.89
+,a person is walking in a large ,0.66
+,a woman in a blonde dress is talking to a the of a girl with ,1.35
+,a woman is down down ,0.53
+,a man in a red top and white white and is standing on a wall ,1.02
+,a man on the day of a tree at daytime ,0.69
+,a young black woman in a room a room a black man is holding a ,0.84
+,a person is down a table and falls down the wall ,0.71
+,a small is is from a and a a and the the the ,0.77
+,a man in a room a a man ,0.57
+,a woman in a room a black woman is a a black is is talking ,0.89
+,a young man with a and a a girl in a room and a white ,0.84
+,a man is by a tree on a sidewalk during the day ,0.75
+,a man is riding in a car ,0.50
+,a young man wearing a red shirt is jumping on a road ,0.78
+,a person is shown on a ,0.51
+,a man is on a tree of a tree ,0.68
+,a young girl is holding a girl in a kitchen ,0.66
+,a person in a red is is standing in a red is standing in the ,0.90
+,a woman is being in a room ,0.51
+,a man in water water water on water ,0.68
+,a group of people are dancing in a stage ,0.73
+,a in the water in the daytime ,0.55
+,a man is at a beach ,0.54
+,a young man wearing a t shirt and a dancing on a street ,0.86
+,woman in a room ,0.34
+,a woman with a white shirt is by a girl with her her her her ,0.91
+,a man is on a ,0.41
+,a young man is outside in a grassy field at daytime ,0.79
+,a woman is on a ,0.40
+,a man is running on a field ,0.65
+,a man in a snow of a running and running on a snow ,0.90
+,a group of people are dancing on a stage ,0.62
+,a young man in a school room a young man with a blue shirt and ,0.84
+,a person is down down the street ,0.49
+,a group of people in a stage ,0.53
+,a person is down a a phone in a hole jumps down a hole falls ,0.89
+,a large room in a room a young asian is talking to a of a ,0.89
+,a person is driving a car at daytime ,0.55
+,a young girl in a room and a room ,0.63
+,a young man in a kitchen ,0.45
+,a man is driving on a basketball court on a road ,0.91
+,a man is on a platform at a ,0.57
+,a group of young young men are standing in a front of a wall ,0.85
+,a young player is over a ball in a ball in a ball in a ,0.83
+,a man in a pool ,0.41
+,in a classroom a young young boy in a red and is talking down the ,0.92
+,a video of a video of a person ,0.55
+,a person is on a snow ,0.51
+,a group of people in a white and white and white white wearing wearing black ,0.91
+,a man in a ball outdoors at daytime ,0.56
+,a man in a white shirt and a white shirt is holding a ,0.92
+,a man with red and with a red jacket with a black man is holding ,0.88
+,a group of people are walking on a stage ,0.64
+,a person is running on a ,0.51
+,two people sitting in a car car and the car ,0.69
+,a group of people are dancing in a room ,0.67
+,a person is down down ,0.41
+,a man in a black man is off a man falls to the ground and ,0.92
+,a young man in a snow a snow and a building during the day during ,0.84
+,a young woman is walking on a park and a white and is running ,0.83
+,a group of men with a indoor on a stage ,0.65
+,a cat is on a on a ,0.55
+,a black man is in a room ,0.64
+,a night at night ,0.49
+,a group of people are dancing at a ,0.81
+,a woman in a sidewalk and a woman is walking and the day when the ,1.15
+,a man is running on a road ,0.51
+,a young asian girl is dancing ,0.48
+,a person is down on the of and and one down the the of one ,0.92
+,in a room a young asian woman in a black and wearing a black shirt ,0.84
+,a boy in a baby and baby is crying to the camera ,0.96
+,a woman is at a room ,0.50
+,a young dog is sleeping in a table with a white and white white white ,1.01
+,a group of people are dancing in a room ,0.61
+,a white man in a red and a man in a room ,0.75
+,a man jumps into a mountain ,0.43
+,a man is into a window ,0.50
+,a car on the street ,0.51
+,a group of people are dancing in a stage ,0.96
+,a woman is talking to a man with a man with a red ,0.87
+,a person is driving a car on a table ,0.62
+,a of a of a people is a a man ,0.63
+,a basketball player in a of a stadium a red ,0.65
+,a young asian men is talking to a hand in a red shirt is holding ,0.88
+,a man in a room a white dog with a red shirt and white dog ,0.86
+,a young boy is a a boy and a red and jeans and jeans jeans ,0.87
+,a person is holding a face and a person is by ,0.70
+,a man is a a bike is by a ,0.60
+,a man in a room and a boy is up a it on a wall ,0.84
+,a person is is being by a and and a is is by the the ,0.90
+,a man in a room with a white shirt and black man is hitting a ,0.86
+,a man wearing a white shirt is a a tree a tree a tree ,0.86
+,a woman is holding a large ,0.49
+,a car on a car and a man is shown ,0.78
+,a dog with a human with a in a red top and its its its ,0.96
+,a young man is a a man in a table with a white shirt is ,0.99
+,a man is walking on a and a man and it ,0.70
+,a little boy in a bedroom a boy in a room ,0.72
+,a young man in a white shirt with a black with a white shirt is ,0.83
+,a man is running on a road ,0.47
+,a group of people are running and a dog and one dog and one dog ,0.93
+,a young man is a in a of a man in a room and white ,0.85
+,a man in a red and white of a at daytime ,0.69
+,a man in a car and white and is riding a the day and the ,0.90
+,a young boy in a blue shirt and a blue and then then then then ,0.85
+,a person on a stage and a man and a person and its mouth and ,0.84
+,a man is walking in a water ,0.53
+,a young boy is riding a small girl is riding on a car and is ,0.88
+,a person is standing on a table and then then then then then it then ,0.83
+,a man in a shirt with a hat and his head with his head down ,0.94
+,two men are in a room ,0.44
+,a young man is dancing on a stage ,0.62
+,a man is down a man in a car and falls down ,0.92
+,a woman woman sitting on a table and a woman and a white is eating ,0.87
+,in a school a group of a group of a is dancing in a room ,0.82
+,a toddler is dancing in a bed ,0.50
+,a small black is is talking to the camera and the the camera ,0.87
+,a person is holding a of of a people ,0.62
+,a man is in a man in his head and ,0.69
+,a young man in a red dress and a man is by a young man ,0.93
+,a man in a man with a ball on his ball to his ,0.80
+,a woman is dancing in a room ,0.57
+,a man is walking on a ball and one man jumps over the ,0.83
+,a man is up a a in a room ,0.57
+,a goats and a tree and the the ,0.60
+,a woman with a woman with a pink and a white is is ,0.80
+,a is holding a water to a water ,0.55
+,a young woman is walking on a door and a ,0.72
+,in a room a black woman with a and ,0.63
+,a man is dancing on a street ,0.51
+,a young asian is is dancing on a tree ,0.76
+,a group of people are dancing in a street ,0.68
+,a man is in a car and is walking on a street ,0.79
+,a crowd of people in a night ,0.51
+,in a large of people are in a of a of people ,0.80
+,a man walks in a ball outdoors at daytime ,0.67
+,a man is up a garden is is on a dog ,0.72
+,a baby is sitting in a bed ,0.54
+,a person on a stage with a person ,0.57
+,a young man in a black t shirt is walking in the day of the ,0.90
+,on a sidewalk a man is walking at a ,0.62
+,a man is jumping at a at daytime ,0.57
+,a young man is singing in a room ,0.63
+,a black man is running in a street at daytime ,0.72
+,a man dancing in a room ,0.51
+,a man is jumping on a water water water water water ,0.77
+,a group of people are running in a stadium ,0.64
+,a man is walking on a street at daytime ,0.73
+,a young cat is on a living room a door and the the ,0.80
+,a group of a person are are ,0.55
+,a boy in a room ,0.50
+,a man in a man is walking on the street in a street ,0.94
+,a young girl is dancing in a room with a black is is talking ,0.93
+,a person is holding a room ,0.60
+,a cat is dancing ,0.48
+,a young man is dancing in a room a young man is talking to the ,1.07
+,a person is walking on a house ,0.50
+,a young boy in a baseball cap and a baseball are ,0.86
+,in a game in a stadium is is being in the of court ,1.11
+,a cat jumps on a tree ,0.62
+,a young girl in a blue jacket and a blue ,1.10
+,a black man in a black and is is dancing in a of of one ,1.57
+,a group of people are in a stage are talking to the other ,1.12
+,a baby in a green in a room ,0.76
+,a man on a beach ,0.56
+,a young woman is sitting on a tree and and a leg ,1.04
+,a group of people in a crowd of a group of people are standing in ,1.20
+,a man is singing on a stage ,0.82
+,a dog is walking on a and and a man ,0.90
+,a young people are on a stage in a street ,0.95
+,a woman is a a kitchen on a kitchen ,0.78
+,a cat is held on a table ,0.65
+,a man with a glass into a glass into a glass door ,0.86
+,a man is walking at a daytime ,0.56
+,a dog is wearing a red and and a pink and is shown ,0.82
+,a person on a of a ,0.47
+,a man is to a person ,0.47
+,a young man is dancing to a music in a room ,0.85
+,a young man wearing red jacket and black and is singing ,0.75
+,a man in a crowd of a woman in a ,0.71
+,on a living room one young white dog with a brown and one sitting on ,1.13
+,two men are in a classroom one one with black and one black shirt and ,1.54
+,in a crowd of people in a red and is ,0.85
+,a young woman in a stage in a room ,1.07
+,a car on the road ,0.63
+,a on a street at a street at night ,0.97
+,a man is jumping on a of a wall with a wall it it it ,1.11
+,outside a large a young boy is a a boy ,0.83
+,a man in a classroom to the the of a person in a table ,1.12
+,a group of people are riding a basketball and a person is down the ,1.04
+,a man on a field a man in a field and a player is running ,1.07
+,a young men are on a street in a of two of one are down ,1.26
+,a young man is walking into the street of a man ,0.85
+,a woman with a red shirt and a white is dancing on a stage ,0.87
+,a person is singing in a room ,0.50
+,a man is talking to a crowd ,0.54
+,a man in a car is riding a car ,0.61
+,a man is holding a red and a man in a red ,0.79
+,a group of people are a a young asian people with a red shirt is ,0.85
+,a young woman is a a dog in a room ,0.65
+,a woman in a kitchen a woman is eating at a kitchen ,0.93
+,a man in a white shirt and a woman ,0.70
+,a person on a snow at a snow at a snow and one with red ,0.92
+,a person on a water ,0.43
+,a young man is talking to a tv show ,0.70
+,a woman in a kitchen a black man in a red shirt and black pulls ,0.88
+,a young man wearing a white shirt is talking to the the ,0.74
+,a young men is sitting in the classroom when the other ,0.75
+,a man is outdoors at daytime ,0.50
+,a man in a red in a red and red and white man ,0.86
+,a man on a stage is dancing on stage ,0.65
+,a white is holding a bathtub ,0.53
+,a young man wearing a black shirt is is talking to the day of the ,0.91
+,a young man with a green top of a roof jumps from the hole ,0.85
+,a man in a snow in a snow and a snow ,0.69
+,a young man is dancing in a street with a building ,0.77
+,a young man wearing a green shirt and a white shirt and a white girl ,0.85
+,a boy on a green a boy in a green field ,0.75
+,a man is in a car and a car is doing the ,0.74
+,a woman is walking in a street ,0.51
+,a woman on a stage ,0.66
+,a young man wearing white shirt and white shirt walks by a wall ,1.00
+,a basketball player in a ball and the ball in the air in the gym ,0.88
+,a black woman with a green shirt is holding a large ,0.74
+,a young asian woman in a microphone in a room ,0.70
+,video of a person with a phone ,0.53
+,a group of people are dancing in a group of a group of young asian ,1.01
+,a young asian boy outside outside a of of a young asian is talking to ,0.93
+,a japanese woman wearing a white shirt is dancing in a room ,0.86
+,a water in a ,0.38
+,man on a stage ,0.43
+,a woman is singing on a stage with a black is singing singing ,0.90
+,in a room with a young asian boy with a red and is is talking ,0.87
+,a person is on a stage ,0.48
+,a man wearing a black shirt is talking to a ,0.75
+,a young man wearing a red shirt and a man is standing in the of ,0.85
+,a man with long hair with a black is talking to the camera ,0.83
+,a person is jumping on a of of a of two men are ,0.80
+,a woman is talking to the camera in a room ,0.72
+,a young asian man is by a large and is by a person is singing ,0.90
+,a man is down a water and a man and it it it it it ,0.95
+,a woman sits in a chair at a chair and falls down the day ,0.83
+,a young young man wearing a red and white pants are walking on a street ,0.89
+,a man dressed in a red dress with a dress is dancing ,0.72
+,a group of people are on a stage ,0.57
+,outside in a grassy of a dog is to a fence ,0.72
+,a young woman is standing on a stage with a stage ,0.73
+,a man in a city street in a city ,0.65
+,a young man is singing in a stage ,0.57
+,a man is a a in a of a ,0.63
+,a person in a kitchen a woman is ,0.69
+,a person is running in a street at the ,0.62
+,a man in a white shirt and a white jumps with a house ,0.87
+,a a ball is running at daytime ,0.49
+,a woman is holding a on a a and a young man is singing and ,0.99
+,a man is in a room ,0.45
+,a person in a city of a building and a building and a building and ,0.94
+,a person is jumping into the daytime ,0.56
+,a young man wearing a red shirt and red and are standing on the side ,0.89
+,a man in a running at a ,0.51
+,a person is down a ball with a ball ,0.66
+,a black man with a black and is by a ,0.82
+,a young man wearing a white shirt and walking the the of the the day ,1.00
+,a young man wearing a black jacket and a black is dancing in a room ,0.87
+,a man is by a young man with a room ,0.63
+,a black and white shirt is holding a man ,0.66
+,three young men dressed in a black and a white is singing ,0.74
+,a person on a toy ,0.40
+,a young men in a black and is dancing in the air in the air ,0.90
+,a white man wearing white shirt and white shirt is talking at a table ,0.88
+,a boy is talking to a young girl in a ,0.66
+,a young man is jumping into a of water of water of water ,0.88
+,in a street a group of people in a street ,0.76
+,a man on a stage in a ,0.62
+,a woman is singing ,0.52
+,a and and white and a white and a one who is running ,0.97
+,a man is into a bottle and a and and and then and then falls ,0.86
+,a man in a white and dressed in a white shirt with a blue is ,0.84
+,a group of men in a city in the street in the street ,0.84
+,a man is outdoors at daytime ,0.43
+,two young women are down a beach ,0.58
+,in a crowd of people are in a stage ,0.68
+,a woman is in a room ,0.50
+,a woman outdoors at daytime ,0.45
+,a football player in a red and is is ,0.71
+,a young man wearing a white shirt and sunglasses is on a outside on a ,0.92
+,a man in a red and is dancing in a room ,0.72
+,a man wearing a green shirt and a ball on a ball on a field ,0.86
+,a woman is talking to a at daytime ,0.55
+,a group of people are dancing in a room ,0.66
+,a boy in a baby and a woman is dancing to music ,0.80
+,a young man is talking to a room ,0.67
+,a man in a room in a room ,0.58
+,a man on a a car on a car on a road ,0.82
+,a black man is in a room ,0.55
+,a boy wearing a red shirt and red shirt and his head and then falls ,0.93
+,a black man is over a fence at a fence ,0.73
+,on a stage with red and white white is singing a red is singing ,0.97
+,a a cat with a cat and a plastic and falls on a ,0.86
+,in a room a young man in a black man with a black man is ,0.85
+,a video of a young is is shown a a brown and is standing ,0.88
+,a young red and red and red and a red in a parking lot ,0.86
+,a person is on a ,0.40
+,a group of people are walking in a side ,0.67
+,a black man in a black and a black and black black and a black ,0.88
+,a woman in a blue of a blue dress is dancing ,0.67
+,a man is talking to a table and woman with a woman who is talking ,0.87
+,a person is is over a mountain on a track ,0.67
+,a group of people are dancing on a stage ,0.77
+,a young man is talking to a camera in a room ,0.98
+,a man wearing red shirt and red and red ,0.80
+,a on a green of a green of a green and are jumping and a ,1.03
+,a boy in a in a room a a boy in a room ,1.14
+,a man wearing a red shirt and white shirt and ,1.09
+,a person is jumping on a snow ,1.15
+,a young man wearing a black is is to a and and them them ,4.04
+,a black and wearing a white shirt is in a room in a room ,2.81
+,a group of people are dancing in a room ,2.57
+,a man is jumping at a door at daytime ,2.88
+,a is making a moving and people are talking to the music while one with ,3.47
+,a baby lying on a floor and baby and her ,2.22
+,a young man is running in the of a large of people dancing in a ,3.35
+,in a room a young asian man in a white black white shirt and white ,3.16
+,two men are dancing and one and one while singing while one singing ,2.57
+,a baby sitting on a chair and is sitting on a room ,1.82
+,a man is driving driving car and the car ,1.26
+,a group of young asian men in a stage ,1.26
+,a young woman in a kitchen in a room with a red shirt is talking ,1.46
+,a black black black in a black and is dancing in the daytime ,1.15
+,a woman is a a a woman on a stage ,0.90
+,a group of people are walking in front of a crowd ,1.12
+,a man is walking on a street at a street ,1.04
+,a woman is at a table with a glass and a girl with a red ,1.14
+,two men are playing a other ,0.49
+,a man is outdoors at a woman outdoors at daytime ,0.79
+,a man is down a water in a of a man ,0.90
+,man wearing a car is singing on a car ,0.75
+,a man in a red shirt and white man is shown and ,0.86
+,man wearing a man is walking on a street ,0.73
+,a man is shown in a room ,0.57
+,a of a young asian woman in a red and is is by a the ,0.92
+,a man is walking in a street and is is shown ,0.70
+,a white cat is on a water at daytime ,0.66
+,a hand of a glass in a glass in a glass ,0.91
+,a man is by a tree ,0.65
+,a young man is driving a car and driving a car ,1.00
+,a man on a street ,0.60
+,a man in a street in a street ,0.82
+,a young asian is walking on a and ,0.76
+,a man on a on a of a wall and it but it ,1.09
+,a woman is shown in a room with a room with a person is by ,1.14
+,a woman with a woman ,0.51
+,a baby sits on a floor of a dog is ,0.98
+,a person is into the ,0.55
+,a goat and and black and then the ,0.73
+,a cat in a room ,0.58
+,a person on a pool jumps jumps into the pool and jumps jumps falls falls ,1.23
+,a baby is lying on a ,0.63
+,a young man wearing a red shirt and white white shirt and white white male ,1.37
+,a group of people dancing in a room ,0.71
+,a man wearing a red shirt is driving a car and down on a road ,1.14
+,a track a a track at the day and the the ,1.17
+,a boy in a room with a room ,1.01
+,a man is holding a red and in a red shirt ,1.01
+,a young man is talking to a table in a room ,0.95
+,a man is into a ball into a ,0.71
+,a man is from a computer on a table on a table is is shown ,1.17
+,a boy with a table with a table with a table with a red shirt ,1.06
+,a man wearing a red shirt and a black is is being a a man ,1.16
+,persons on a ,0.51
+,four people are running on a street at daytime ,0.79
+,man in a in a man in a green ,0.62
+,a person is being on a tv show ,0.55
+,a young girl is in a water in a ,0.84
+,a man in a red dress in a red is is dancing in a room ,1.29
+,a young man with a is is sitting on a sofa and a sofa and ,1.92
+,a man talking at a room ,0.94
+,a basketball player is the the of the ,1.10
+,a man jumps into the of of a man jumps into the daytime ,1.97
+,a dog and white cat and a ball ,1.26
+,a group of people are on a street ,1.20
+,asian young asian men in a stage with a black ,1.57
+,a young man wearing a white shirt and a white shirt with a green shirt ,1.44
+,a man in a room with a young man is singing and the the falls ,0.83
+,a man in a green shirt and a tree tree ,0.70
+,a of is is running on a road and and falls on the road ,0.82
+,a young people are walking in a crowd of a young people ,0.72
+,a young asian boy is playing a indoors ,0.56
+,a man is being and something on a tv show ,0.63
+,a young boy wearing a red shirt and a ball on a table with a ,0.80
+,in a group of two girls are dancing in a group of people are are ,0.85
+,in a room a man with a red and white hat is singing ,0.75
+,a boy sitting at daytime ,0.39
+,a woman on a stage and a woman is singing the the of the day ,0.81
+,a young man is dancing in a street at daytime ,0.61
+,a woman wearing a white shirt and a black is dancing on a wall ,0.90
+,a young black men in a black in a wall wall the wall ,0.73
+,group of people are on stage on a stage ,0.61
+,a woman is a a woman with a black and then then then then ,0.80
+,two people are dancing in a room in a room one is is talking to ,0.79
+,a group of a young asian women with a pink ,0.64
+,man wearing red shirt shirt and red shirt and red shirt and over ,0.75
+,a dog is in a room of a room ,0.60
+,a group of people are dancing in a room ,0.56
+,a man is hit by a car by a car by it ,0.70
+,a group of people dancing on a stage ,0.61
+,a group of people are walking in a street and people are standing at the ,0.84
+,crowd of people in a crowd of a ,0.56
+,a young asian man on a door and the the ,0.61
+,a young boy in a red shirt and blue shirt and a red ,0.75
+,in a room a young man runs down the the of the the of a ,0.80
+,a girl is down a table ,0.43
+,a young man in a room a black man wearing a black shirt and jeans ,0.78
+,a person is jumping on a street and a person ,0.61
+,a young woman is a a table ,0.47
+,a man is in a room ,0.50
+,a young woman with a ball and the air and the air ,0.87
+,a small of a room with a and is standing on a table at a ,0.79
+,a little boy in a bedroom a white is is ,0.65
+,a girl into a room and a is jumping into a room ,0.70
+,a man wearing a green shirt and a man is walking on a street ,0.78
+,a large large white girl in a white and white black and black black is ,0.82
+,a man in a large shirt and a man is standing on a door of ,0.77
+,a person with a yellow and is is his and is is and the the ,0.81
+,two men are in a table ,0.45
+,man in a backyard shirt and over a man jumps over it ,0.68
+,a young man in a red shirt and a white is with a tree with ,0.83
+,a women in a red and is dancing ,0.69
+,a young man wearing a dark shirt and a black shirt is dancing on a ,0.94
+,a man is standing at a ,0.43
+,a man is around a ball ,0.68
+,a dog is running on a daytime ,0.54
+,two men are dancing in a field ,0.51
+,a little boy is sitting in a baby is sitting in a table ,0.75
+,a woman with a black and black black is dancing a a man ,0.73
+,a black man in a red shirt and is is shown at the daytime ,0.79
+,a group of people are holding a pool and a boy is a a boy ,0.77
