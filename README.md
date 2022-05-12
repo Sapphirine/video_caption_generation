@@ -33,8 +33,8 @@ The video explaining the project can be found  <a href="https://www.youtube.com/
 
 
 ## RESULTS
-
-<table>
+<center>
+<table> 
  <tr>
   <th>Video</th>
  <th>Predicted Caption</th>
@@ -58,6 +58,7 @@ The video explaining the project can be found  <a href="https://www.youtube.com/
  <td><img src="outputs/a video of a video of a person.gif" width="320px"/></td>
  <td>a video of a video of a person </td>
  </tr>
+ 
  </table>
  
  ### Actual v/s Predicted
