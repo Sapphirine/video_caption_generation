@@ -27,3 +27,30 @@ Clone the repository : <code>git clone https://github.com/Sapphirine/video_capti
 
 The video explaining the project can be found  <a href="https://www.youtube.com/watch?v=rJquNZ1nzvY">here</a>
 
+## RESULTS
+
+<table>
+ <tr>
+  <th>Video</th>
+ <th>Predicted Caption</th>
+ </tr>
+<tr>
+ <td><img src="outputs/a boy sitting on a car seat of a car .gif" width="320px"/></td>
+ <td>a boy sitting on a car seat of a car </td>
+<tr>
+ <td><img src="outputs/a man is talking to a crowd .gif" width="320px"/></td>
+ <td>a man is talking to a crowd </td>
+ </tr>
+ <tr>
+ <td><img src="outputs/a man in a bathtub .gif" width="320px"/></td>
+ <td>a boy in a bathtub </td>
+ </tr>
+ <tr>
+ <td><img src="outputs/a cat in a room.gif" width="320px"/></td>
+ <td>a cat in a room </td>
+ </tr>
+ <tr>
+ <td><img src="outputs/a video of a video of a person.gif" width="320px"/></td>
+ <td>a video of a video of a person </td>
+ </tr>
+ </table>
