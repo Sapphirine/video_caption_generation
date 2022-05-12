@@ -63,7 +63,7 @@ The video explaining the project can be found  <a href="https://www.youtube.com/
  
 
  
- ### Actual v/s Predicted
+ ## Actual v/s Predicted
  
  <p align = "center"><img align = "center" src = "https://github.com/Sapphirine/video_caption_generation/blob/main/Report%20and%20Slides/figures/ap.PNG" /></p>
  
