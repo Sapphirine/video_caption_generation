@@ -20,6 +20,8 @@ BLEU scores are calculated for the evaluation of
 the models. Greedy and Beam Search Algorithms
 are used for Real-Time Testing
 
+<h2 id="Video">Video</h2>
+
 The video explaining the project can be found  <a href="https://www.youtube.com/watch?v=rJquNZ1nzvY">here</a>
 
 <h2 id="Setup">Setup</h2>
