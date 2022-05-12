@@ -61,8 +61,7 @@ The video explaining the project can be found  <a href="https://www.youtube.com/
   </table>
  </center>
  
- \\
- 
+
  
  ### Actual v/s Predicted
  
