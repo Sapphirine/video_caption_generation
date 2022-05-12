@@ -58,8 +58,8 @@ The video explaining the project can be found  <a href="https://www.youtube.com/
  <td><img src="outputs/a video of a video of a person.gif" width="320px"/></td>
  <td>a video of a video of a person </td>
  </tr>
- 
  </table>
+ </center>
  
  ### Actual v/s Predicted
  
