@@ -24,3 +24,4 @@ The video explaining the project can be found  <a href="https://www.youtube.com/
 
 <h2 id="Setup">Setup</h2>
 Clone the repository : <code>git clone https://github.com/Sapphirine/video_caption_generation.git</code>
+
