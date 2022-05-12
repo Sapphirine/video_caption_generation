@@ -1,6 +1,6 @@
 # Video Caption Generation
 
-## ABSTRACT
+## Project Description
 
 With the increasing volume of Multimedia operations in our everyday life, advancements in the
 digital space have become essential. Captioning is
