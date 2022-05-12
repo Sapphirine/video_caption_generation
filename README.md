@@ -29,7 +29,7 @@ The video explaining the project can be found  <a href="https://www.youtube.com/
 
 <h2 id="System Overview">System Overview</h2>
 
-<p align = "center"><img align = "center" src = "Report and Slides/figures/vd_system_overview.png" /></p>
+<p align = "center"><img align = "center" src = "/Report and Slides/figures/vd_system_overview.png" /></p>
 
 ## RESULTS
 
