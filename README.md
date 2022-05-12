@@ -1,5 +1,7 @@
 # Video Caption Generation Using Deep Learning and NLP
 
+COURSE PROJECT FOR EECS E6895 : ADVANCED BIG DATA AND AI
+
 ## Project Description
 
 With the increasing volume of Multimedia operations in our everyday life, advancements in the
