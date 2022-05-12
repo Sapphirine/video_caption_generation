@@ -1,4 +1,4 @@
-# Video Caption Generation
+# Video Caption Generation Using Deep Learning and NLP
 
 ## Project Description
 
