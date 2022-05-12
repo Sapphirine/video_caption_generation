@@ -28,7 +28,7 @@ Clone the repository : <code>git clone https://github.com/Sapphirine/video_capti
 The video explaining the project can be found  <a href="https://www.youtube.com/watch?v=rJquNZ1nzvY">here</a>
 
 ## RESULTS
-<h3 id="Results">Results</h3>
+
 <table>
  <tr>
   <th>Video</th>
