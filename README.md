@@ -42,7 +42,7 @@ The video explaining the project can be found  <a href="https://www.youtube.com/
  <td>a man is talking to a crowd </td>
  </tr>
  <tr>
- <td><img src="outputs/a man in a bathtub .gif" width="320px"/></td>
+ <td><img src="outputs/a boy in a bathtub .gif" width="320px"/></td>
  <td>a man in a bathtub </td>
  </tr>
  <tr>
